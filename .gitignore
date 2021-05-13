@@ -3,3 +3,5 @@ out
 target
 /lib
 *.iml
+*.log
+/out.log.1
